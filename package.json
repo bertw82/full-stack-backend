@@ -23,7 +23,7 @@
     "morgan": "^1.10.0",
     "pg": "^8.8.0",
     "promise.prototype.finally": "^3.1.2",
-    "sequelize": "^6.6.5",
+    "sequelize": "^6.24.0",
     "sequelize-auto-migrations-v2": "^1.2.1",
     "sqlite3": "^5.0.0"
   }
